@@ -1,9 +1,9 @@
 # NicolaAdell
 **Nombre:** _Nicolás Adell_
 
-**Curso:** _4to 2da Aviónica_
+**Curso:** _5to 2da Aviónica_
 
-**Edad:** _15 años_
+**Edad:** _16 años_
 
 ### Descripción:
 
@@ -19,9 +19,9 @@
 
 ![](https://previews.123rf.com/images/kadirtinte/kadirtinte1403/kadirtinte140300004/27564296-banderas-oficiales-de-los-pa%C3%ADses.jpg)
 
-*Me consideran inteligente, pero yo me catálogo como ignorante, ya que no se ni sabré todo**
+*Me gusta la filosofía*
 
 **Sócrates:** 
-> Creo ser más inteligente que este hombre, ya que no creo saber lo que no sé
+> Creo ser más sabio que este hombre, ya que no creo saber lo que no sé
 ![](https://sites.google.com/site/psicologiagriega/filosofos-importantes/socrates/socrates.jpg?attredirects=0)
 
