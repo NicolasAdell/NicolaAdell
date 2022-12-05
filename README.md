@@ -3,7 +3,7 @@
 
 **Curso:** _5to 2da Aviónica_
 
-**Edad:** _16 años_
+**Edad:** _17 años_
 
 ### Descripción:
 
