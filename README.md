@@ -1,7 +1,7 @@
 # NicolaAdell
 **Nombre:** _Nicolás Adell_
 
-**Curso:** _5to 2da Aviónica_
+**Curso:** _6to 2da Aviónica_
 
 **Edad:** _17 años_
 
