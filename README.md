@@ -1,4 +1,4 @@
-# NicolaAdell
+# NicolasAdell
 **Nombre:** _Nicolás Adell_
 
 **Curso:** _6to 2da Aviónica_
