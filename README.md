@@ -1,27 +1,17 @@
 # NicolasAdell
-**Nombre:** _Nicolás Adell_
 
-**Curso:** _7mo 2da Aviónica_
+🚀 About Me
 
-**Edad:** _18 años_
+I am an Avionics Technician and an aspiring Informatics Engineer currently studying at Universidad de Buenos Aires. My passion lies at the intersection of technology and aviation, and I thrive on solving challenges that push the boundaries of both fields.
 
-### Descripción:
+🛠️ What I Do
 
-*Me gusta tocar el piano 🎹*
-![](https://www.superprof.com.ar/blog/wp-content/uploads/2017/12/clases-piano-adultos.jpg)
+- Electronics & Embedded Systems: Working with sensors (e.g., DS18B20), microcontrollers (RP2040 Zero, ESP32), and hardware (EL817 optocoupler).
+- Software Development: Exploring Python, MicroPython, FreeRTOS, and TensorFlow for real-world applications.
+- Avionics Systems: Delving into signal processing, RF connectors, and aeronautical wiring harnesses.
+- AI & Machine Learning: Extracting EEG signal features and training models for brainwave-to-command mapping.
 
-*Me gustan los deportes, ya que los veo como una forma de despejar mi mente🏈🏉🎾*
-![](https://www.compromisoempresarial.com/wp-content/uploads/2015/11/rsc-deporte.jpg)
+📫 Get in Touch
 
-*Me gusta aprender cosas nuevas, y en general soy de mente abierta para nuevas aventuras😀😀*
-
-*Me llevo bien con los idiomas/languages/Sprachen/languages*
-
-![](https://previews.123rf.com/images/kadirtinte/kadirtinte1403/kadirtinte140300004/27564296-banderas-oficiales-de-los-pa%C3%ADses.jpg)
-
-*Me gusta la filosofía*
-
-**Sócrates:** 
-> Creo ser más sabio que este hombre, ya que no creo saber lo que no sé
-![](https://sites.google.com/site/psicologiagriega/filosofos-importantes/socrates/socrates.jpg?attredirects=0)
-
+[LinkedIn](https://www.linkedin.com/in/nicolas-fabian-adell)
+[Email](nicolas.fabian2005@gmail.com)
