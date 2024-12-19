@@ -11,7 +11,17 @@ I am an Avionics Technician and an aspiring Informatics Engineer currently study
 - Avionics Systems: Delving into signal processing, RF connectors, and aeronautical wiring harnesses.
 - AI & Machine Learning: Extracting EEG signal features and training models for brainwave-to-command mapping.
 
+🎯 Goals
+
+- Build innovative systems integrating hardware and software.
+- Contribute to impactful open-source projects in robotics and assistive technology.
+- Continue advancing technical expertise in embedded systems and control systems.
+
+📈 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasAdell&show_icons=true&theme=radical)
+
 📫 Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/nicolas-fabian-adell)
-[Email](nicolas.fabian2005@gmail.com)
+LinkedIn: [Nicolas Fabian Adell](https://www.linkedin.com/in/nicolas-fabian-adell)
+
+Email: [Gmail](nicolas.fabian2005@gmail.com)
