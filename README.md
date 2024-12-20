@@ -1,4 +1,4 @@
-# NicolasAdell
+# 👋 Hi there, I'm Nicolás Fabián Adell!
 
 ### 🚀 About Me
 
@@ -17,11 +17,24 @@ I am an Avionics Technician and an aspiring Informatics Engineer currently study
 - Contribute to impactful open-source projects in robotics and assistive technology.
 - Continue advancing technical expertise in embedded systems and control systems.
 
+#### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+
+#### 🔧 Tools & Platforms  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)  
+
+
 ### 📈 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasAdell&show_icons=true&theme=radical)
-
-### 📊 Languages I Use  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAdell&layout=compact&theme=radical)
 
