@@ -18,7 +18,12 @@ I am an Avionics Technician and an aspiring Informatics Engineer currently study
 - Continue advancing technical expertise in embedded systems and control systems.
 
 📈 Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasAdell&show_icons=true&theme=radical)
+
+### 📊 Languages I Use  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 📫 Get in Touch
 
