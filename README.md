@@ -6,7 +6,7 @@ I am an Avionics Technician and an aspiring Informatics Engineer currently study
 
 ### 🛠️ What I Do
 
-- Electronics & Embedded Systems: Working with sensors (e.g., DS18B20), microcontrollers (RP2040 Zero, ESP32), and hardware (EL817 optocoupler).
+- Electronics & Embedded Systems: Working with sensors (e.g., DS18B20), microcontrollers (RP2040 Zero, ESP32), and hardware.
 - Software Development: Exploring Python, MicroPython, FreeRTOS, and TensorFlow for real-world applications.
 - Avionics Systems: Delving into signal processing, RF connectors, and aeronautical wiring harnesses.
 - AI & Machine Learning: Extracting EEG signal features and training models for brainwave-to-command mapping.
